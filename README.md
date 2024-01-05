@@ -18,7 +18,7 @@ This is a straightforward Todo application developed using React. It allows user
 - Responsive design
 
 ## Demo
-![Demo](https://github.com/pooriaamini/Simple-Todo-App/assets/144540664/e4eb925c-6fb0-435c-befd-aacf09de729f)
+![Screenshot (9)](https://github.com/pooriaamini/Simple-Todo-App/assets/144540664/52099c15-dc13-434e-9946-da1ca1bd0aa2)
 
 
 ### Installation:
