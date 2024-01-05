@@ -17,7 +17,12 @@ This is a straightforward Todo application developed using React. It allows user
 - edite todos
 - Responsive design
 
+## Demo
+![Demo](https://github.com/pooriaamini/Simple-Todo-App/assets/144540664/e4eb925c-6fb0-435c-befd-aacf09de729f)
+
+
 ### Installation:
+first extract files and go to project directory
 ```bash
 npm install
 ```
@@ -25,3 +30,4 @@ npm install
 ```
 npm run build
 ```
+
