@@ -1,0 +1,44 @@
+body {
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: 0.5rem;
+  font-family: emoji;
+  margin-top: 2rem;
+}
+
+.input {
+  margin-top: 3rem;
+}
+.input-form {
+  @apply flex justify-center gap-3;
+}
+.input-inp {
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  @apply w-[80vw]  rounded-[10px] shadow-2xl;
+}
+
+.btn {
+  @apply bg-white text-black py-0 px-5 rounded-[10px];
+}
+
+.list {
+  @apply flex flex-col items-center justify-center mt-5;
+}
+.list-show {
+  @apply w-[60vw] bg-white rounded-[10px] px-5 py-2 mt-3 flex justify-between items-center;
+}
+
+.edite-todo {
+  @apply flex gap-5;
+}
+.edite-todo-inp {
+  @apply bg-black text-white rounded-[10px] py-2 px-3;
+}/*# sourceMappingURL=style.css.map */
